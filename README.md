@@ -4,7 +4,7 @@ Stardust is a dark, single-file theme for T3 Code. A quiet blue canvas makes roo
 
 ![Stardust in Signal Garden, a fictional workspace](media/preview.webp)
 
-[Download the theme](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust.json) · [Watch the demo](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust-demo.mp4)
+[Download the theme](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust.json) · [Watch the 4K launch film](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust-launch-4k.mp4)
 
 ## The details
 
@@ -23,7 +23,7 @@ Stardust is a dark, single-file theme for T3 Code. A quiet blue canvas makes roo
 
 The JSON was validated with the T3 Code Nightly theme loader. The controller needs a wide conversation layout, and the companion appears in the thread details panel. Reduced Motion disables the main visual animations. The theme embeds its artwork and needs no external asset requests.
 
-The demo uses the theme's CSS in a fictional workspace. All projects, messages, model labels, and usage figures shown are sample content.
+The 4K launch film shows a conversation switch, the send burst, all six reasoning levels, the full ASCII controller turn, and the companion inside the thread details card. It uses the theme's artwork and CSS in a fictional workspace.
 
 ## Credits
 
