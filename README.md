@@ -4,7 +4,7 @@ Stardust is a dark, single-file theme for T3 Code. A quiet blue canvas makes roo
 
 ![Stardust in Signal Garden, a fictional workspace](media/preview.webp)
 
-[Download the theme](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust.json) · [Watch the 4K launch film](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust-launch-4k.mp4)
+[Download the theme](https://github.com/Ne1ther/stardust-t3/releases/latest/download/stardust.json) · [Watch the 4K launch film](https://github.com/Ne1ther/stardust-t3/releases/download/v1.0.0/stardust-launch-4k.mp4)
 
 ## The details
 
